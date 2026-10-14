@@ -10,9 +10,9 @@
 
 I build tools that replace paper forms, messy Excel files, and long email chains.
 
-Right now I'm at **ORCA for Shipping and Delivery** in Cairo, where I moved HR, Finance, and Logistics onto Power Apps, Power Automate, and Dataverse. I also look after the team's day-to-day IT.
+Right now I'm a digital transformation consultant for two companies in Cairo, **ORCA for Shipping and Delivery** and **GIA**. At ORCA I built a container tracking portal for clients and moved HR, Finance, and Logistics onto Power Apps, Power Automate, and Dataverse. I also look after the team's day-to-day IT.
 
-Before that I spent three years in Gaza with **International Medical Corps** and the **Norwegian Refugee Council**, building field reporting tools and tracking equipment in hard conditions. I started out as a journalist at AFP.
+Before that I spent 12 years in humanitarian work in Gaza with the **Norwegian Refugee Council** and **International Medical Corps**, where I built a fleet management system and ran communications for a field hospital during the war. I started out as a journalist at AFP.
 
 These days most of my side projects are websites and web apps built with AI coding tools like Claude and Cursor. That's mostly what you'll find here.
 
@@ -34,9 +34,10 @@ Website for a Dubai trading company, generated from a Python build script and de
 
 ### Power Platform work
 Most of my Power Platform work belongs to the organizations I've worked for, so the code isn't public. Highlights:
+- **Container tracking portal (ORCA):** 40+ clients a month follow their containers and download invoices, shipping documents, and reports.
 - **HR & Finance automation (ORCA):** recruitment, onboarding, leave, and payroll records in one system. 40% less manual work.
-- **Vehicle booking system (ORCA):** staff request trips, managers approve and assign vehicles.
-- **Emergency communication app (IMC):** fast updates between field teams during emergencies.
+- **Fleet management system (IMC):** electronic logbook, driver attendance, maintenance reports, and an AI-assisted movement plan for 30+ vehicles a day across Gaza, Jerusalem, and the West Bank.
+- **Field hospital patient tracking (IMC):** inpatient and outpatient case tracking during the war, built with the M&E team.
 
 ---
 
