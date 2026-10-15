@@ -20,6 +20,10 @@ These days most of my side projects are websites and web apps built with AI codi
 
 ## Projects
 
+### [EMT TentCare – Offline Field Hospital System](https://github.com/Mahassira/emergency-field-hospital)
+Patient flow for a six-tent emergency field hospital: registration and triage, tent queues, lab and X-ray requests, theatre, a 50-bed ward, and discharge. It works with no internet and installs on a phone like an app. Built from what I saw at IMC's field hospital in Gaza. **[Try the live demo](https://mahassira.github.io/emergency-field-hospital/)**
+`HTML` `CSS` `JavaScript` `PWA` `Offline-first`
+
 ### [ORCA – Corporate Website & Customer Portal](https://github.com/Mahassira/ORCA)
 Bilingual (English / Arabic) website for a shipping and logistics company, with a services page, an interactive locations map, a quote form, a virtual assistant widget, and a demo customer portal for tracking shipments.
 `HTML` `CSS` `JavaScript` `i18n` `GitHub Pages`
