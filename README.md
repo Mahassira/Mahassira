@@ -64,8 +64,6 @@ Most of my Power Platform work belongs to the organizations I've worked for, so 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Learning now:** SQL and data analysis
-
 ---
 
 Open to Power Platform, digital transformation, and IT roles, and to freelance web projects.
