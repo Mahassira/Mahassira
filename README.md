@@ -14,7 +14,7 @@ Right now I'm a digital transformation consultant for two companies in Cairo, **
 
 Before that I spent 12 years in humanitarian work in Gaza with the **Norwegian Refugee Council** and **International Medical Corps**, where I built a fleet management system and ran communications for a field hospital during the war. I started out as a journalist at AFP.
 
-These days most of my side projects are websites and web apps built with AI coding tools like Claude and Cursor. That's mostly what you'll find here.
+These days most of my side projects are websites and web apps built with AI coding tools. That's mostly what you'll find here.
 
 ---
 
@@ -61,7 +61,6 @@ Most of my Power Platform work belongs to the organizations I've worked for, so 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **AI coding**
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
